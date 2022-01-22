@@ -1,0 +1,30 @@
+The steamer ducks are a genus (Tachyeres) of ducks in the family Anatidae. All of the four species occur at the southern cone of South America in Chile and Argentina, and all except the flying steamer duck are flightless; even this one species capable of flight rarely takes to the air.  They can be aggressive and are capable of chasing off predators like petrels. Bloody battles of steamer ducks with each other over territory disputes are observed in nature. They even kill waterbirds that are several times their size.
+
+
+== Taxonomy ==
+The genus Tachyeres was introduced in 1875 by the English zoologist Richard Owen to accommodate the Falkland steamer duck. The genus name Tachyeres, "having fast oars" or "fast rower", comes from Ancient Greek ταχυ- "fast" + ἐρέσσω "I row (as with oars)". The common name "steamer ducks" arose because, when swimming fast, they flap their wings into the water as well as using their feet, creating an effect like a paddle steamer.They are usually placed in the shelduck subfamily Tadorninae. However, mtDNA sequence analyses of the cytochrome b and NADH dehydrogenase subunit 2 genes indicate that Tachyeres rather belongs in a distinct clade of aberrant South American dabbling ducks, which also includes the Brazilian, the crested, and the bronze-winged ducks.
+
+
+=== Extant species ===
+There are four species:
+The Chubut steamer duck was only described in 1981.
+
+
+=== Phylogeny ===
+Based on the Taxonomy in Flux from John Boyd's website.
+
+
+== Evolution ==
+
+
+=== Flightlessness ===
+Flightless Tachyeres have a paraphyletic organization, as shown above. There are multiple possible explanations of these organizations. It is unlikely that flightlessness evolved once in all Tachyeres and then disappeared in T. patachonicus, because there is no evidence for a reversal of evolution, and these reversals are extremely rare. It is more likely that flightlessness evolved independently in each steamer duck species. The DYRK1A enzyme has been identified as a candidate gene for flightlessness in steamer ducks. This finding, combined with the range of flight capability, means the evolutionary history of the group may not be so clear cut.
+There is genomic evidence of recent speciation into four Tachyeres species. Flightless Tachyeres are thought to be undergoing a modern evolutionary transition to flightlessness, which explains the range of flight capability observed across the genus. The largest males of the most volant species, the flying steamer duck, are completely incapable of flight, while other individuals rarely fly. The flying steamer duck is the only species to reside in landlocked bodies of water. Generally, island bound/isolated avian populations are more likely to experience evolution towards flightlessness, which may be the case for several Tachyeres populations in the coastal South American regions.
+
+
+== References ==
+
+
+== External links ==
+ Media related to Tachyeres at Wikimedia Commons
+Cunningham, Robert O. (November 1871). "On some Points in the Anatomy of the Steamer Duck (Micropterus cinereus)". Transactions of the Zoological Society of London. 7 (7): 493–501. doi:10.1111/j.1096-3642.1871.tb00278.x. hdl:2027/hvd.32044107224503; plates lviii–lxii{{cite journal}}:  CS1 maint: postscript (link)

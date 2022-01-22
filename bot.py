@@ -32,7 +32,7 @@ def img_to_bytes(img_path):
     return encoded
 
 
-def cs_gallery(galleria_path):
+def cs_gallery(gallery_path):
 
 
     st.markdown(sup_titles("Gallery"),unsafe_allow_html=True)
@@ -41,7 +41,7 @@ def cs_gallery(galleria_path):
     exp.warning('*** The current Gallery just displays all the Images in the Repository, the future versions of this application will include Multiple levels of Categorization such as Habitat, Regions, Apperances and So on. ***')
 
 
-    bird_names = os.listdir(galleria_path)
+    bird_names = os.listdir(gallery_path)
     bird_names.remove('.DS_Store')
     
     
@@ -52,21 +52,19 @@ def cs_gallery(galleria_path):
 
     for i in range(315): 
         bird = ' '.join(list(map(str.capitalize, bird_names[i].split('-'))))
-        image = os.path.join('./data/galleria',bird_names[i],'1.jpg')
+        image = os.path.join(gallery_path,bird_names[i],'1.jpg')
         cols[next(image_indexes)].image(image,use_column_width=True,caption=bird)
         
     
 def cs_identify():
 
-    st.markdown(sup_titles("Indentification"),unsafe_allow_html=True)
+    st.markdown(sup_titles("Identification"),unsafe_allow_html=True)
 
 
     # model instantiation 
     model_path = '/Users/Shared/Relocated/Others/Code/Data Science/Bird-Encyclopedia/EfficientNetB3-birds-98.92.h5'
     model_name = 'EfficientNetB3-bird'
     acc = 98.92
-
-    
 
 
     # Image Augmentation 
@@ -78,7 +76,7 @@ def cs_identify():
     # Parse the Information to Info-Collection Pipeline 
 
 
-    # call Information Rending Pipeline
+    # call Information Rendering Pipeline
 
     pass
 
@@ -89,10 +87,11 @@ def cs_encylopedia():
 
 
 
+
 if __name__ == '__main__':
 
     # Galleria Path 
-    gallery_path = './data/galleria'
+    gallery_path = './data/gallery-files'
 
     
 
